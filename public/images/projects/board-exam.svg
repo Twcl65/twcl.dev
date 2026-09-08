@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">Board Exam Review System preview</title>
+  <rect width="1200" height="750" fill="#efefef"/>
+  <rect x="48" y="40" width="1104" height="670" rx="18" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="48" y="40" width="1104" height="64" fill="#111"/>
+  <text x="80" y="80" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Board Review</text>
+  <rect x="80" y="132" width="280" height="536" rx="14" fill="#f6f6f6" stroke="#e5e5e5"/>
+  <rect x="104" y="160" width="160" height="12" rx="6" fill="#111"/>
+  <rect x="104" y="196" width="220" height="36" rx="8" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="104" y="244" width="220" height="36" rx="8" fill="#111"/>
+  <rect x="104" y="292" width="220" height="36" rx="8" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="104" y="340" width="220" height="36" rx="8" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="104" y="388" width="220" height="36" rx="8" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="388" y="132" width="720" height="536" rx="14" fill="#fff" stroke="#e5e5e5"/>
+  <rect x="424" y="168" width="90" height="18" rx="9" fill="#111"/>
+  <rect x="424" y="208" width="640" height="16" rx="8" fill="#111"/>
+  <rect x="424" y="236" width="480" height="12" rx="6" fill="#cfcfcf"/>
+  <rect x="424" y="288" width="640" height="64" rx="12" fill="#f6f6f6" stroke="#e5e5e5"/>
+  <rect x="424" y="368" width="640" height="64" rx="12" fill="#111"/>
+  <rect x="424" y="448" width="640" height="64" rx="12" fill="#f6f6f6" stroke="#e5e5e5"/>
+  <rect x="424" y="528" width="640" height="64" rx="12" fill="#f6f6f6" stroke="#e5e5e5"/>
+</svg>

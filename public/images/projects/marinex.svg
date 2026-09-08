@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title">
+  <title id="title">MarineX product preview</title>
+  <rect width="1200" height="750" fill="#111"/>
+  <rect x="48" y="40" width="1104" height="670" rx="18" fill="#161616" stroke="#262626"/>
+  <text x="80" y="92" fill="#fff" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">MarineX</text>
+  <text x="80" y="118" fill="#888" font-family="Segoe UI, Arial, sans-serif" font-size="13">Marina operations</text>
+  <rect x="80" y="148" width="1040" height="1" fill="#262626"/>
+  <rect x="80" y="180" width="240" height="110" rx="12" fill="#1c1c1c" stroke="#2a2a2a"/>
+  <rect x="100" y="204" width="90" height="8" rx="4" fill="#666"/>
+  <rect x="100" y="228" width="70" height="28" rx="6" fill="#fff"/>
+  <rect x="340" y="180" width="240" height="110" rx="12" fill="#1c1c1c" stroke="#2a2a2a"/>
+  <rect x="360" y="204" width="110" height="8" rx="4" fill="#666"/>
+  <rect x="360" y="228" width="86" height="28" rx="6" fill="#fff"/>
+  <rect x="600" y="180" width="240" height="110" rx="12" fill="#1c1c1c" stroke="#2a2a2a"/>
+  <rect x="620" y="204" width="100" height="8" rx="4" fill="#666"/>
+  <rect x="620" y="228" width="64" height="28" rx="6" fill="#fff"/>
+  <rect x="860" y="180" width="260" height="110" rx="12" fill="#1c1c1c" stroke="#2a2a2a"/>
+  <rect x="880" y="204" width="120" height="8" rx="4" fill="#666"/>
+  <rect x="880" y="228" width="92" height="28" rx="6" fill="#fff"/>
+  <rect x="80" y="320" width="700" height="350" rx="14" fill="#1a1a1a" stroke="#2a2a2a"/>
+  <rect x="104" y="360" width="652" height="12" rx="6" fill="#2f2f2f"/>
+  <rect x="104" y="392" width="420" height="12" rx="6" fill="#3a3a3a"/>
+  <rect x="104" y="424" width="580" height="12" rx="6" fill="#2f2f2f"/>
+  <rect x="104" y="456" width="310" height="12" rx="6" fill="#3a3a3a"/>
+  <rect x="104" y="488" width="500" height="12" rx="6" fill="#2f2f2f"/>
+  <rect x="104" y="520" width="360" height="12" rx="6" fill="#3a3a3a"/>
+  <rect x="104" y="584" width="180" height="40" rx="8" fill="#fff"/>
+  <rect x="808" y="320" width="312" height="350" rx="14" fill="#1a1a1a" stroke="#2a2a2a"/>
+  <rect x="836" y="356" width="256" height="70" rx="10" fill="#222"/>
+  <rect x="836" y="442" width="256" height="70" rx="10" fill="#222"/>
+  <rect x="836" y="528" width="256" height="70" rx="10" fill="#222"/>
+</svg>
